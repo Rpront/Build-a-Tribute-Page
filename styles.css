@@ -1,0 +1,72 @@
+img{
+    display:block;
+  }
+#image{
+  height:70%;
+  max-width:70%;
+  margin:auto;
+  padding-top: 20px;
+  }
+  
+body{
+    background: #332330;
+  }
+
+#title{
+  text-align: center;
+  color: #F8DEC3;
+  font-size: 50px;
+  margin: 1px;
+}
+#description{
+  text-align: center;
+  color:#AFAB95 ;
+  font-size: 20px;
+  margin: 0px;
+}
+main{
+  background-color: #301B2A;
+}
+figure{
+  background-color: #6E515C;
+}
+#img-caption{
+  font-size: 18px;
+  color: #F8DEC3;
+  text-align: center;
+  margin: 1em auto;
+}
+#title-2{
+  text-align: center;
+   color: #F8DEC3;
+   padding-bottom: 50px;
+   padding-top: 50px;
+}
+li{
+  margin-left: 25%;
+  margin-right: 25%;
+  color: #F8DEC3;
+  font-size: 18px;
+  padding-bottom: 10px;
+  text-align: justify;
+}
+strong{
+  color: #AFAB95;
+  font-size: 20px;
+}
+.Cita{
+  color: white;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-style: italic;
+  margin-top: 50px;
+}
+.Cita-nombre{
+  margin-top: 10px;
+  color: #AFAB95;
+}
+.Pie{
+  color: #F8DEC3;
+  padding:200px;
+  text-align: center;
+}
